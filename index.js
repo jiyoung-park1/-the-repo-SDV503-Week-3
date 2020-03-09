@@ -72,3 +72,38 @@ console.log(true != "1");
 console.log(true != 0);
 console.log(false != 1);
 console.log(false != "0");
+
+console.log("A" == "A");
+console.log("a" == "a");
+
+console.log(" ");
+console.log("z" > "A");
+
+console.log(" ");
+console.log("Raise" > "Race");
+console.log("Break" > "Brake");
+console.log("Lose" < "Loose");
+
+console.log("A" == "a");
+console.log("a" > "A");
+
+console.log(" ");
+console.log("book" > "Book");
+
+console.log(1 == "!");
+console.log(1 == true);
+
+console.log(" ");
+console.log(0 == false);
+console.log("" == false);
+
+console.log(1 == "1");
+console.log(1 === "1");
+console.log(" ");
+
+console.log(1 == true);
+console.log(1 === true);
+console.log(" ");
+
+console.log(0 == false);
+console.log(0 === false);

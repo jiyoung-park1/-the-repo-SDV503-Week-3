@@ -107,3 +107,29 @@ console.log(" ");
 
 console.log(0 == false);
 console.log(0 === false);
+
+console.log(1 != "1");
+console.log(1 !== "1");
+console.log(" ");
+
+console.log(1 != true);
+console.log(1 !== true);
+console.log(" ");
+
+console.log(0 != false);
+console.log(0 !== false);
+
+console.log(null == 0);
+console.log(null === 0);
+console.log(null > 0);
+console.log(null < 0);
+console.log(null >= 0);
+console.log(" ");
+console.log(undefined == null);
+console.log(undefined === 0);
+console.log(undefined > 0);
+console.log(undefined >= 0);
+
+console.log(null +1);
+console.log(undefined > 0);
+console.log(undefined + 1);

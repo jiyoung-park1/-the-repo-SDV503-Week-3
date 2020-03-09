@@ -133,3 +133,14 @@ console.log(undefined >= 0);
 console.log(null +1);
 console.log(undefined > 0);
 console.log(undefined + 1);
+
+console.log(true || true);
+console.log(true || false);
+console.log(false || true);
+console.log(false || false);
+
+console.log(1 || 1);
+console.log(1 || 0);
+console.log(0 || 1); 
+console.log(0 || 0);
+

@@ -31,3 +31,16 @@ x /= 10;
 console.log(x);
 x **= 10;
 console.log(x);
+
+let A = 1;
+let B = 1;
+if (A == B) {
+    console.log('same numbers')
+}
+
+console.log(10 == 5);
+console.log(10 != 5);
+console.log(10 < 5);
+console.log(10 > 5);
+console.log(10 <= 5);
+console.log(10 >= 5);
